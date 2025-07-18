@@ -1,7 +1,3 @@
-// AnomalyDetectionAPI.cpp
-// Author: Shlomi Ben-Shushan ID: [REDACTED_ID]
-
-// Include node.h library and all relevant cpp files.
 #include <node.h>
 #include "AnomalyDetectionServer2/src/main.cpp"
 #include "AnomalyDetectionServer2/src/anomaly_detection_util.cpp"

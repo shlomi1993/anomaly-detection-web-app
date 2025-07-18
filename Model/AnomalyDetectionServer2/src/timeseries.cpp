@@ -1,9 +1,3 @@
-/*
- * TimeSeries.cpp
- *
- * Author: Shlomi Ben-Shushan ID: [REDACTED_ID]
- */
-
 #include "timeseries.h"
 
 // Constructor.

@@ -1,8 +1,3 @@
-/*
- * HybridAnomalyDetector.cpp
- *
- * Author: Shlomi Ben-Shushan ID: [REDACTED_ID]
- */
 #include "HybridAnomalyDetector.h"
 
 // Constructor (empty) implementation - relying on parent's constructor.

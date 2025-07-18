@@ -1,8 +1,3 @@
-/*
- * main.cpp
- *
- * Author: Shlomi Ben-Shushan ID: [REDACTED_ID]
- */
 #include <iostream>
 #include <fstream>
 #include <sys/types.h>

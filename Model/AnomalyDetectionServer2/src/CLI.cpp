@@ -1,9 +1,3 @@
-// /*
-//  * CLI.cpp
-//  *
-//  * Author: Shlomi Ben-Shushan ID: [REDACTED_ID]
-//  */
-
 // #include "CLI.h"
 
 // // CLI constructor.

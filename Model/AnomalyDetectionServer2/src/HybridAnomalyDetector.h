@@ -1,9 +1,3 @@
-/*
- * HybridAnomalyDetector.h
- *
- * Author: Shlomi Ben-Shushan ID: [REDACTED_ID]
- */
-
 #ifndef HYBRIDANOMALYDETECTOR_H_
 #define HYBRIDANOMALYDETECTOR_H_
 

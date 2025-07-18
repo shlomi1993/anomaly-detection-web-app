@@ -1,8 +1,3 @@
-/*
- * minCircle.h
- *
- * Author: Shlomi Ben-Shushan ID: [REDACTED_ID]
- */
 #ifndef MINCIRCLE_H_
 #define MINCIRCLE_H_
 
