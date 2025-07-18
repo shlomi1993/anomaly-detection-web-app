@@ -1,11 +1,3 @@
-// 31140826
-
-/*
- * minCircle.cpp
- *
- * Author: Shlomi Ben-Shushan ID: 311408264
- */
-
 #include "minCircle.h"
 #include <iostream>
 #include <cmath>

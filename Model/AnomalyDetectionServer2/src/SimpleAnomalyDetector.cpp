@@ -1,9 +1,3 @@
-/*
- * SimpleAnomalyDetector.cpp
- *
- * Author: Shlomi Ben-Shushan ID: 311408264
- */
-
 #include "SimpleAnomalyDetector.h"
 #include <iostream>
 

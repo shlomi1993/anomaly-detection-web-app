@@ -1,9 +1,3 @@
-// /*
-//  * CLI.h
-//  *
-//  * Author: Shlomi Ben-Shushan ID: 311408264
-//  */
-
 // #ifndef CLI_H_
 // #define CLI_H_
 // #include <string.h>

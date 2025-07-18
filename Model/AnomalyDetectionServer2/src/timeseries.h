@@ -1,9 +1,3 @@
-/*
- * TimeSeries.h
- *
- * Author: Shlomi Ben-Shushan ID: 311408264
- */
-
 #ifndef TIMESERIES_H_
 #define TIMESERIES_H_
 #include <iostream>

@@ -1,8 +1,3 @@
-// /*
-//  * Server.cpp
-//  *
-//  * Author: Shlomi Ben-Shushan ID: 311408264
-//  */
 
 // #include "Server.h"
 

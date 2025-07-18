@@ -1,9 +1,3 @@
-// /*
-//  * commands.h
-//  *
-//  * Author: Shlomi Ben-Shushan ID: 311408264
-//  */
-
 // #ifndef COMMANDS_H_
 // #define COMMANDS_H_
 

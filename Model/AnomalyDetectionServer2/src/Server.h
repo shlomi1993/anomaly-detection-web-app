@@ -1,9 +1,3 @@
-// /*
-//  * Server.h
-//  *
-//  * Author: Shlomi Ben-Shushan ID: 311408264
-//  */
-
 // #ifndef SERVER_H_
 // #define SERVER_H_
 

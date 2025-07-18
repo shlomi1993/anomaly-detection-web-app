@@ -1,9 +1,3 @@
-/*
- * anomaly_detection_util.cpp
- *
- * Author: Shlomi Ben-Shushan ID: 311408264
- */
-
 #include <cmath>
 #include "anomaly_detection_util.h"
 

@@ -1,9 +1,3 @@
-/*
- * SimpleAnomalyDetector.h
- *
- * Author: Shlomi Ben-Shushan ID: 311408264
- */
-
 #ifndef SIMPLEANOMALYDETECTOR_H_
 #define SIMPLEANOMALYDETECTOR_H_
 

@@ -1,9 +1,3 @@
-/*
- * anomaly_detection_util.h
- *
- * Author: Shlomi Ben-Shushan ID: 311408264
- */
-
 #ifndef ANOMALYDETECTORUTIL_H_
 #define ANOMALYDETECTORUTIL_H_
 
