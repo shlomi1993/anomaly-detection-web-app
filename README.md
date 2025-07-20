@@ -2,7 +2,7 @@
 
 ## Description
 
-We were asked to create application that will be able to detect anomalies.
+We were asked to create an application that will be able to detect anomalies.
 The application displays a form and the user should provide the following parameters:
 
 1. Training csv file
